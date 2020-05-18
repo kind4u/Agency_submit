@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AGency</string>
+    <string name="register_name">회원가입</string>
+    <string name="info_name">내 정보</string>
+    <string name="info_modify_name">내 정보 수정</string>
+    <string name="ranking_name">명예의 전당</string>
+    <string name="review_name">전시회 후기</string>
+    <string name="review_detail_name">후기 상세 정보</string>
+    <string name="review_write_name">후기 작성</string>
+    <string name="user_info_name">회원 정보</string>
+    <string name="detail_name">상세 정보</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="search_performance">전시/공연 검색</string>
+    <string name="detail_performance">전시/공연 상세 정보</string>
+</resources>
